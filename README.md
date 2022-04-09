@@ -4,9 +4,9 @@
  
 
 <div class="highlight highlight-source-js position-relative"><pre><span class="pl-k">const</span> <span class="pl-s1">agustin</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">PHP</span><span class="pl-kos">,</span> <span class="pl-c1">Java</span><span class="pl-kos">,</span> <span class="pl-c1">C++</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">MySQL</span><span class="pl-kos">,</span> <span class="pl-v">Git</span><span class="pl-kos">,</span> <span class="pl-v">Jira</span><span class="pl-kos">,</span> <span class="pl-v">Symfony</span><span class="pl-kos">,</span> <span class="pl-v">Git</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">currentlyLearning</span>: <span class="pl-kos">[</span><span class="pl-v">Ruby on rails</span>,</span> <span class="pl-kos">JavaScript</span>, </span><span class="pl-c1">React</span><span class="pl-kos">,</span> <span class="pl-v">MongoDB</span><span class="pl-kos">]</span>
+  <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">JavaScript</span><span class="pl-kos">,</span> <span class="pl-c1">PHP</span><span class="pl-kos">,</span> <span class="pl-c1">Python</span><span class="pl-kos">,</span> <span class="pl-c1">C++</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">MySQL</span><span class="pl-kos">,</span> <span class="pl-v">MongoDB</span><span class="pl-kos">,</span> <span class="pl-v">Git</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-c1">currentlyLearning</span>: <span class="pl-kos">[</span><span class="pl-v">Redux.js</span>,</span> <span class="pl-kos">AWS</span>, </span><span class="pl-c1">Terraform</span><span class="pl-kos"><span class="pl-kos">]</span>
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="const agustin = {
   code: [PHP, Java, C++],
